@@ -1,7 +1,7 @@
-### Introductory Problems
-1. Weird Algorithm
+# Introductory Problems
+## 1. Weird Algorithm
 
-[Link](https://cses.fi/problemset/task/1068)
+[Problem link](https://cses.fi/problemset/task/1068)
 
 Solution:
 ```cpp
