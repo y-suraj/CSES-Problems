@@ -5,5 +5,5 @@
 
 [Click here to see all the CSES problems set.](https://cses.fi/problemset/)
 
-### Introductory Problems
-1. Weird Algorithm
+### [Introductory Problems](https://github.com/y-suraj/CSES-Problems/tree/main/Introductory%20Problems)
+1. [Weird Algorithm](https://github.com/y-suraj/CSES-Problems/blob/main/Introductory%20Problems/README.md#1-weird-algorithm)
