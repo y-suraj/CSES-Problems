@@ -1,6 +1,8 @@
 ### Introductory Problems
 1. Weird Algorithm
+
 [Link](https://cses.fi/problemset/task/1068)
+
 Solution:
 ```cpp
 ll n;
