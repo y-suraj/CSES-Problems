@@ -3,7 +3,7 @@
 [Link](https://cses.fi/problemset/task/1068)
 Solution:
 ```cpp
-      ll n;
+   ll n;
    cin >> n;
    cout << n;
 
