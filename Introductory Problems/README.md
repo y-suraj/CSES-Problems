@@ -124,7 +124,7 @@ else {
 }
 ```
 
-## 6 Number Spiral [link](https://cses.fi/problemset/task/1071)
+## 6. Number Spiral [link](https://cses.fi/problemset/task/1071)
 
 Solution:
 ```cpp
